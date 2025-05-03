@@ -344,6 +344,20 @@ gap: 50px;
 .home4{
     height: 150vh;
 }
+.cercle4 li {
+    text-align: center;
+    padding-top: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    margin-left: 20px;
+}
+.cercle6 li {
+    color: aliceblue;
+    text-align: justify;
+    padding-left: 2rem;
+    margin-left: 20px;
+}
+
 }
 .image
 {
